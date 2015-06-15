@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Einswatch User</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_admin_page">AdminPageActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
